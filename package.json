@@ -1,0 +1,18 @@
+{
+  "name": "@rynti/material-ui-next",
+  "version": "1.0.0-alpha.3",
+  "description": "Wrapper Package for Material UI Next.",
+  "main": "index.js",
+  "author": "Robert Böhm <me@rynti.com>",
+  "license": "MIT",
+  "dependencies": {
+    "material-ui": "1.0.0-alpha.3"
+  },
+  "peerDependencies": {
+    "react": "^15.4.2",
+    "react-addons-transition-group": "^15.4.2",
+    "react-addons-shallow-compare": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "recompose": "^0.22.0"
+  }
+}

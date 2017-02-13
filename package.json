@@ -1,5 +1,5 @@
 {
-  "name": "@rynti/material-ui-next",
+  "name": "rynti-material-ui-next",
   "version": "1.0.0-alpha.3",
   "description": "Wrapper Package for Material UI Next.",
   "main": "index.js",

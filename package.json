@@ -1,13 +1,13 @@
 {
   "name": "rynti-material-ui-next",
-  "version": "1.0.0-alpha.15",
+  "version": "1.0.0-alpha.16",
   "description": "Wrapper Package for Material UI Next.",
   "main": "index.js",
   "author": "Robert Böhm <me@rynti.com>",
   "license": "MIT",
   "repository": "rynti/material-ui-next",
   "dependencies": {
-    "material-ui": "1.0.0-alpha.15"
+    "material-ui": "1.0.0-alpha.16"
   },
   "peerDependencies": {
     "react": "^15.3.0",

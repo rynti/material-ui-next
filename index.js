@@ -1,1 +1,1 @@
-module.exports = require('material-ui');
+module.exports = require('material-ui/index');

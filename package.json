@@ -1,6 +1,6 @@
 {
   "name": "rynti-material-ui-next",
-  "version": "1.0.0-alpha.22",
+  "version": "1.0.0-alpha.22.fix",
   "description": "Wrapper Package for Material UI Next.",
   "main": "index.js",
   "author": "Robert Böhm <me@rynti.com>",
